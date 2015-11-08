@@ -4,7 +4,7 @@ class Azat {
 public static void main (Stringp[] args) {
 int x;
 int y = 32;
-Class j1 = new Class();
+Class j1 = new Class();;
 
 }
 }
