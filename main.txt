@@ -1,2 +1,4 @@
 //Azat Gasitov
 //Java File
+public static void main (Stringp[] args) {
+}
